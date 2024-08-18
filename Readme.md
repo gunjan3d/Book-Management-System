@@ -11,7 +11,7 @@ This is a full-stack CRUD application for managing books, built using the MERN s
 
 ## Tech Stack
 
-- **Front-end**: React.js, CSS
+- **Front-end**:   React.js, CSS
 - **Back-end**: Node.js, Express.js
 - **Database**: MongoDB
 - **API**: RESTful API built with Express.js and MongoDB
